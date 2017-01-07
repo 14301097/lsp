@@ -1,7 +1,8 @@
 /*
  * booga.h
- *
- *      Author: Ashok Gelal
+ * <see in git>
+ * <Ashok Gelal>
+ * <fork in 14301097>
  */
 
 #ifndef __BOOGA_H
